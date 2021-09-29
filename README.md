@@ -9,6 +9,7 @@ Everything working including Wi-fi, just need to disable trackpad forcetouch for
 How to Use
 
 Installation:
+
 1 - Follow this guide to create an OSX Install USB in Windows: https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html
 
 2 - Copy EFI and com.apple.recovery.boot into Flashdrive root folder
