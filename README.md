@@ -10,8 +10,11 @@ How to Use
 
 Installation:
 1 - Follow this guide to create an OSX Install USB in Windows: https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html
+
 2 - Copy EFI and com.apple.recovery.boot into Flashdrive root folder
+
 3 - You need to change property ScanPolicy to 0 along with ShowPicker to true in EFI/OC/config.plist otherwise you don't see BaseSystem option in OpenCore boot menu!
+
 4 - Run from flashdrive and install OSX
 
 
